@@ -4,3 +4,6 @@ D:\文档\GitHub\Csharp-Practice\Submit\4rd\HelloGithub\HelloGithub\bin\Debug\He
 D:\文档\GitHub\Csharp-Practice\Submit\4rd\HelloGithub\HelloGithub\obj\Debug\HelloGithub.csprojResolveAssemblyReference.cache
 D:\文档\GitHub\Csharp-Practice\Submit\4rd\HelloGithub\HelloGithub\obj\Debug\HelloGithub.exe
 D:\文档\GitHub\Csharp-Practice\Submit\4rd\HelloGithub\HelloGithub\obj\Debug\HelloGithub.pdb
+D:\GitHub\Csharp-Practice\Submit\4rd\HelloGithub\HelloGithub\bin\Debug\HelloGithub.exe.config
+D:\GitHub\Csharp-Practice\Submit\4rd\HelloGithub\HelloGithub\obj\Debug\HelloGithub.exe
+D:\GitHub\Csharp-Practice\Submit\4rd\HelloGithub\HelloGithub\obj\Debug\HelloGithub.pdb
