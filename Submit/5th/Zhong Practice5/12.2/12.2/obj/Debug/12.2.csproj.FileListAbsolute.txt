@@ -1,0 +1,12 @@
+C:\Users\钟天一\Desktop\VSTO\12.2\12.2\bin\Debug\12.2.exe.config
+C:\Users\钟天一\Desktop\VSTO\12.2\12.2\bin\Debug\12.2.exe
+C:\Users\钟天一\Desktop\VSTO\12.2\12.2\bin\Debug\12.2.pdb
+C:\Users\钟天一\Desktop\VSTO\12.2\12.2\obj\Debug\12.2.csprojResolveAssemblyReference.cache
+C:\Users\钟天一\Desktop\VSTO\12.2\12.2\obj\Debug\12.2.exe
+C:\Users\钟天一\Desktop\VSTO\12.2\12.2\obj\Debug\12.2.pdb
+C:\Users\钟天一\Desktop\VSTO\Zhong Practice5\12.2\12.2\bin\Debug\12.2.exe.config
+C:\Users\钟天一\Desktop\VSTO\Zhong Practice5\12.2\12.2\obj\Debug\12.2.exe
+C:\Users\钟天一\Desktop\VSTO\Zhong Practice5\12.2\12.2\obj\Debug\12.2.pdb
+C:\Users\钟天一\Desktop\VSTO\Zhong Practice5\12.2\12.2\bin\Debug\12.2.exe
+C:\Users\钟天一\Desktop\VSTO\Zhong Practice5\12.2\12.2\bin\Debug\12.2.pdb
+C:\Users\钟天一\Desktop\VSTO\Zhong Practice5\12.2\12.2\obj\Debug\12.2.csprojResolveAssemblyReference.cache
