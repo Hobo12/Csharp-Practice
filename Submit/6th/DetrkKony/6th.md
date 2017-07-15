@@ -3,7 +3,7 @@
 
 VS Code is updated monthly with new features and bug fixes. You can download it for Windows, Mac and Linux on [VS Code's website](https://code.visualstudio.com/Download). To get the latest releases everyday, you can [install the Insiders version of VS Code](https://code.visualstudio.com/insiders). This builds from the master branch and is updated at least daily.
 
-<center>![d](https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png)</center>
+<center>![picture](https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png)</center>
 
 The [`vscode`](https://github.com/microsoft/vscode) repository is where we do development and there are many ways you can participate in the project, for example:
 
@@ -12,7 +12,6 @@ The [`vscode`](https://github.com/microsoft/vscode) repository is where we do de
 - Review the [documentation][3] and make pull requests for anything from typos to new content
 
 ## Contributing
-<hr>
 
 If you are interested in fixing issues and contributing directly to the code base, please see the document How to Contribute, which covers the following:
 
@@ -22,7 +21,6 @@ If you are interested in fixing issues and contributing directly to the code bas
 - [Submitting pull requests][7]
 
 ## Feedback
-<hr>
 
 - Ask a question on [Stack Overflow][8].
 - Request a new feature on [GitHub][9].
@@ -31,14 +29,12 @@ If you are interested in fixing issues and contributing directly to the code bas
 - [Tweet][12] us with other feedback.
 
 ## Related Projects
-<hr>
 
 Many of the core components and extensions to Code live in their own repositories on GitHub. For example, the [node debug adapter][13] and the [mono debug adapter][14].
 
 For a complete list, please see the [Related Projects][15] page on our wiki.
 
 ## License
-<hr>
 
 Copyright (c) Microsoft Corporation. All rights reserved.
 Licensed under the [MIT][16] License.
