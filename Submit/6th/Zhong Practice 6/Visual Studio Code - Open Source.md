@@ -6,7 +6,7 @@
 
 VS Code is updated monthly with new features and bug fixes. You can download it for Windows, Mac and Linux on [VS Code's website](https://code.visualstudio.com/Download). To get the latest releases everyday, you can install the [Insiders version of VS Code](https://code.visualstudio.com/insiders). This builds from the master branch and is updated at least daily.
 
-![](https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png)
+<center>![](https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png)</center>
 
 The [vscode](https://github.com/microsoft/vscode) repository is where we do development and there are many ways you can participate in the project, for example:
 
