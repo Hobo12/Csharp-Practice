@@ -1,9 +1,0 @@
-C:\Users\钟天一\Desktop\VSTO\14\14\bin\Debug\14.exe.config
-C:\Users\钟天一\Desktop\VSTO\14\14\bin\Debug\14.exe
-C:\Users\钟天一\Desktop\VSTO\14\14\bin\Debug\14.pdb
-C:\Users\钟天一\Desktop\VSTO\14\14\obj\Debug\14.csprojResolveAssemblyReference.cache
-C:\Users\钟天一\Desktop\VSTO\14\14\obj\Debug\14.exe
-C:\Users\钟天一\Desktop\VSTO\14\14\obj\Debug\14.pdb
-C:\Users\钟天一\Desktop\VSTO\Zhong Practice14\14\bin\Debug\14.exe.config
-C:\Users\钟天一\Desktop\VSTO\Zhong Practice14\14\obj\Debug\14.exe
-C:\Users\钟天一\Desktop\VSTO\Zhong Practice14\14\obj\Debug\14.pdb

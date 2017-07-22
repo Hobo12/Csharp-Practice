@@ -12,9 +12,9 @@ namespace _7th
         {
             box firstBox = new box();
 
-            firstBox.length = 2;
-            firstBox.width = 3;
-            firstBox.height = 4;
+            firstBox.length = double.Parse(Console.ReadLine());
+            firstBox.width = double.Parse(Console.ReadLine());
+            firstBox.height = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Box的面积是{0}",firstBox.area());
             Console.WriteLine("Box的体积是{0}", firstBox.volume());
