@@ -18,7 +18,7 @@ namespace _17._2
 
             // Read the file and display it line by line.
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"Csharp-Practice/Pricatice/The 10th On-hand Practice/Objective.txt");
+                new System.IO.StreamReader(@"Objective.txt");
             while ((line = file.ReadLine()) != null)
             {
                 System.Console.WriteLine(line);
