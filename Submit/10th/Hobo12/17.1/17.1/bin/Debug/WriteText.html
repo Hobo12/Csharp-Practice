@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta name="theme-color" content="#4385e9">
+    <title>鐧诲綍 | ICE.Do</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <!-- page stylesheets -->
+    <link rel="stylesheet" href="/assets/dashboard/vendor/sweetalert/dist/sweetalert.css">
+    <!-- end page stylesheets -->
+    <link rel="stylesheet" href="/assets/dashboard/styles/webfont.css">
+    <link rel="stylesheet" href="/assets/dashboard/styles/climacons-font.css">
+    <link rel="stylesheet" href="/assets/dashboard/vendor/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="/assets/dashboard/styles/font-awesome.css">
+    <link rel="stylesheet" href="/assets/dashboard/styles/card.css">
+    <link rel="stylesheet" href="/assets/dashboard/styles/sli.css">
+    <link rel="stylesheet" href="/assets/dashboard/styles/animate.css">
+    <link rel="stylesheet" href="/assets/dashboard/styles/app.css">
+    <link rel="stylesheet" href="/assets/dashboard/styles/app.skins.css">
+    <link rel="stylesheet" href="/assets/dashboard/styles/auth.css">
+    <!-- endbuild -->
+</head>
+
+<body class="page-loaded">
+<!-- page loading spinner -->
+<div class="pageload" style="display: none;">
+    <div class="pageload-inner">
+        <div class="sk-rotating-plane"></div>
+    </div>
+</div>
+<!-- /page loading spinner -->
+<div class="app signin usersession">
+    <div class="session-wrapper" style="
+    /* background-color: aliceblue; */
+">
+        <div class="page-height-o row-equal align-middle">
+            <div class="column">
+                <div class="card card-login bg-white no-border">
+                    <div class="card-block">
+                        <div class="form-layout">
+                            <div class="text-center m-b">
+                                <img src="/assets/dashboard/images/icon-rectangle.png" width="120px"/>
+                                <h4 class="text-uppercase">娆㈣繋鍥炴潵</h4>
+                                <p>璇疯緭鍏ユ偍鐨勮处鎴蜂俊鎭?/p>
+                            </div>
+                            <div class="form-inputs">
+                                <label class="text-uppercase">璐﹀彿</label>
+                                <input class="form-control input-md" id="account" placeholder="閭 / 鎵嬫満" required="">
+                                <label class="text-uppercase">瀵嗙爜</label>
+                                <input type="password" class="form-control input-md" id="password" placeholder="瀵嗙爜" required="">
+                            </div>
+                            <button class="btn btn-login no-border btn-block bg-blue text-white btn-md m-b" id="login" type="submit">鐧诲綍</button>
+                            <div class="divider">
+                                <span>娌℃湁璐﹀彿锛?/span>
+                            </div>
+                            <a class="btn btn-default btn-new-account no-border btn-block btn-md m-b" href="/auth/signup">鍒涘缓鏂拌处鎴?/a>
+                            <p class="text-center" style="display: none;">
+                                <small>
+                                    <em>鐐瑰嚮鈥滅櫥褰曗€濇寜閽唬琛ㄦ偍鍚屾剰鎴戜滑鐨?a href="#">鐢ㄦ埛鍗忚</a></em>
+                                </small>
+                            </p>
+                        </div>
+                    </div>
+                    <a ui-sref="user.forgot" class="bottom-link text-white">蹇樿瀵嗙爜锛?/a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="/assets/dashboard/scripts/helpers/modernizr.js"></script>
+<script src="/assets/dashboard/vendor/jquery/dist/jquery.js"></script>
+<script src="/assets/dashboard/vendor/bootstrap/dist/js/bootstrap.js"></script>
+<script src="/assets/dashboard/vendor/fastclick/lib/fastclick.js"></script>
+<script src="/assets/dashboard/vendor/perfect-scrollbar/js/perfect-scrollbar.jquery.js"></script>
+<script src="/assets/dashboard/scripts/helpers/smartresize.js"></script>
+<script src="/assets/dashboard/scripts/constants.js"></script>
+<script src="/assets/dashboard/scripts/main.js"></script>
+
+<script src="/assets/dashboard/scripts/helpers/sameheight.js"></script>
+
+<script src="/assets/dashboard/vendor/sweetalert/dist/sweetalert.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+
+        $.ajax({
+            type: "POST",
+            url: "/auth/login",
+            dataType: "json",
+            error:
+                function(jqXHR, textStatus, errorThrown) {
+                    //$("#msg-error").hide(10);
+                    //$("#msg-error").show(100);
+                    //$("#msg-error-p").html("鍙戠敓閿欒锛? + jqXHR.status);
+                    if(jqXHR.status==200){
+                        window.location.href='/usercp';
+                    }
+                }
+        });
+
+        function login() {
+            $("#login").attr('disabled', true);
+            $.ajax({
+                type: "POST",
+                url: "/auth/login",
+                dataType: "json",
+                data: {
+                    account: $("#account").val(),
+                    password: $("#password").val(),
+                    //remember_me: $("#remember_me").val()
+                },
+                success: function (data) {
+                    if (data.ret == 1) {
+                        //$("#msg-error").hide(10);
+                        //$("#msg-success").show(100);
+                        //$("#msg-success-p").html(data.msg);
+                        swal({
+                            title: '鐧诲綍鎴愬姛',
+                            timer: 2000,
+                            type: 'success',
+                            showConfirmButton: false,
+                            confirmButtonText: "濂界殑"
+                        });
+                        window.setTimeout("location.href='/usercp'", 1600);
+                    } else {
+                        swal({
+                            title: '鐧诲綍澶辫触',
+                            text:'鐢ㄦ埛鍚嶆垨瀵嗙爜閿欒',
+                            type: 'error',
+                            confirmButtonText: "鍏抽棴"
+                        });
+                        //$("#msg-success").hide(10);
+                        //$("#msg-error").show(100);
+                        //$("#msg-error-p").html(data.msg);
+                        $("#login").removeAttr('disabled');
+                    }
+                },
+                error:
+                    function(jqXHR, textStatus, errorThrown) {
+                        //$("#msg-error").hide(10);
+                        //$("#msg-error").show(100);
+                        //$("#msg-error-p").html("鍙戠敓閿欒锛? + jqXHR.status);
+                        if(jqXHR.status==200){
+                            window.location.href='/usercp';
+                        }
+                        $("#login").removeAttr('disabled');
+                    }
+            });
+        }
+
+        $("#login").click(function () {
+            login();
+        });
+    });
+</script>
+
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-97714145-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+
+
+</body></html>
+Saved by Hobo12

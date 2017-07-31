@@ -1,0 +1,9 @@
+C:\Users\钟天一\Desktop\VSTO\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\钟天一\Desktop\VSTO\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\钟天一\Desktop\VSTO\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\钟天一\Desktop\VSTO\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+C:\Users\钟天一\Desktop\VSTO\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\钟天一\Desktop\VSTO\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\钟天一\Desktop\VSTO\Zhong-Tianyi\11.2\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\钟天一\Desktop\VSTO\Zhong-Tianyi\11.2\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\钟天一\Desktop\VSTO\Zhong-Tianyi\11.2\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

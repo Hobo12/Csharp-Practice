@@ -1,0 +1,6 @@
+D:\文档\GitHub\Csharp-Practice\Submit\10th\10th Zhong\17.2\17.2\17.2\bin\Debug\17.2.exe.config
+D:\文档\GitHub\Csharp-Practice\Submit\10th\10th Zhong\17.2\17.2\17.2\bin\Debug\17.2.exe
+D:\文档\GitHub\Csharp-Practice\Submit\10th\10th Zhong\17.2\17.2\17.2\bin\Debug\17.2.pdb
+D:\文档\GitHub\Csharp-Practice\Submit\10th\10th Zhong\17.2\17.2\17.2\obj\Debug\17.2.csprojResolveAssemblyReference.cache
+D:\文档\GitHub\Csharp-Practice\Submit\10th\10th Zhong\17.2\17.2\17.2\obj\Debug\17.2.exe
+D:\文档\GitHub\Csharp-Practice\Submit\10th\10th Zhong\17.2\17.2\17.2\obj\Debug\17.2.pdb

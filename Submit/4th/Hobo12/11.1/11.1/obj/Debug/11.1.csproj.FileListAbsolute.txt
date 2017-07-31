@@ -1,0 +1,6 @@
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\Hobo12\11.1\11.1\bin\Debug\11.1.exe.config
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\Hobo12\11.1\11.1\bin\Debug\11.1.exe
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\Hobo12\11.1\11.1\bin\Debug\11.1.pdb
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\Hobo12\11.1\11.1\obj\Debug\11.1.csprojResolveAssemblyReference.cache
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\Hobo12\11.1\11.1\obj\Debug\11.1.exe
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\Hobo12\11.1\11.1\obj\Debug\11.1.pdb

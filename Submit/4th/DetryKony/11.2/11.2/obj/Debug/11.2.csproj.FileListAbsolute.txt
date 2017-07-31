@@ -1,0 +1,6 @@
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\DetryKony\11.2\11.2\bin\Debug\11.2.exe.config
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\DetryKony\11.2\11.2\bin\Debug\11.2.exe
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\DetryKony\11.2\11.2\bin\Debug\11.2.pdb
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\DetryKony\11.2\11.2\obj\Debug\11.2.csprojResolveAssemblyReference.cache
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\DetryKony\11.2\11.2\obj\Debug\11.2.exe
+D:\文档\GitHub\Csharp-Practice\Submit\4rd\DetryKony\11.2\11.2\obj\Debug\11.2.pdb
