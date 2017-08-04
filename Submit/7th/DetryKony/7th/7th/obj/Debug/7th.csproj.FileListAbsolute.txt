@@ -1,0 +1,9 @@
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\7rd\DetryKony\7th\7th\bin\Debug\7th.exe.config
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\7rd\DetryKony\7th\7th\bin\Debug\7th.exe
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\7rd\DetryKony\7th\7th\bin\Debug\7th.pdb
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\7rd\DetryKony\7th\7th\obj\Debug\7th.csprojResolveAssemblyReference.cache
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\7rd\DetryKony\7th\7th\obj\Debug\7th.exe
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\7rd\DetryKony\7th\7th\obj\Debug\7th.pdb
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\7th\DetryKony\7th\7th\bin\Debug\7th.exe.config
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\7th\DetryKony\7th\7th\obj\Debug\7th.exe
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\7th\DetryKony\7th\7th\obj\Debug\7th.pdb

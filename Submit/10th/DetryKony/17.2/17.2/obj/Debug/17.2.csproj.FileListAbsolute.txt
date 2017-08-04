@@ -1,0 +1,5 @@
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.2\17.2\bin\Debug\17.2.exe.config
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.2\17.2\bin\Debug\17.2.exe
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.2\17.2\bin\Debug\17.2.pdb
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.2\17.2\obj\Debug\17.2.exe
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.2\17.2\obj\Debug\17.2.pdb

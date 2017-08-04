@@ -1,0 +1,6 @@
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.1\17.1\bin\Debug\17.1.exe.config
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.1\17.1\bin\Debug\17.1.exe
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.1\17.1\bin\Debug\17.1.pdb
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.1\17.1\obj\Debug\17.1.csprojResolveAssemblyReference.cache
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.1\17.1\obj\Debug\17.1.exe
+C:\Users\39776\Documents\GitHub\Csharp-Practice\Submit\10th\DetryKony\17.1\17.1\obj\Debug\17.1.pdb
