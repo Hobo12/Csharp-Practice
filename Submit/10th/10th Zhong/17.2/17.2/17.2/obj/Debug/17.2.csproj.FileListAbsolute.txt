@@ -1,0 +1,6 @@
+C:\Users\钟天一\Desktop\VSTO\10th Zhong\17.2\17.2\17.2\bin\Debug\17.2.exe.config
+C:\Users\钟天一\Desktop\VSTO\10th Zhong\17.2\17.2\17.2\bin\Debug\17.2.exe
+C:\Users\钟天一\Desktop\VSTO\10th Zhong\17.2\17.2\17.2\bin\Debug\17.2.pdb
+C:\Users\钟天一\Desktop\VSTO\10th Zhong\17.2\17.2\17.2\obj\Debug\17.2.csprojResolveAssemblyReference.cache
+C:\Users\钟天一\Desktop\VSTO\10th Zhong\17.2\17.2\17.2\obj\Debug\17.2.exe
+C:\Users\钟天一\Desktop\VSTO\10th Zhong\17.2\17.2\17.2\obj\Debug\17.2.pdb
